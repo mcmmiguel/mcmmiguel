@@ -135,6 +135,6 @@ Learning scalable patterns and modern tooling
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=grey"/>
+<img src="https://komarev.com/ghpvc/?username=mcmmiguel&style=flat-square&color=grey"/>
 
 </div>
