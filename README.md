@@ -82,9 +82,9 @@ const miguel = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9cacc&icon_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mcmmiguel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9cacc&icon_color=ffffff" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mcmmiguel&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 
 </div>
 
@@ -92,7 +92,7 @@ const miguel = {
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d1117&color=ffffff&line=ffffff&point=999999&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mcmmiguel&bg_color=0d1117&color=ffffff&line=ffffff&point=999999&hide_border=true" />
 
 </div>
 
